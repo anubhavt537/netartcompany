@@ -1,0 +1,60 @@
+.award_img{
+    display: flex;
+    justify-content: left;
+}
+.award_img img{
+    height: 40rem;
+    padding-left: 1.2rem;
+}
+.discription h1{
+    text-align: left;
+    font-size: 1rem;
+}
+.discription li{
+    font-size: 1.1rem;
+   
+}
+.discription img{
+    height: 60vh;
+    margin-left: 2rem;
+    width: 60vw;
+}
+
+.material{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+    overflow: hidden;
+}
+.material img{
+    height: 55vh;
+    width: 60vw;
+
+}
+ p{
+    text-align: center;
+}
+
+.para-hr hr{
+  border-color: red;
+  width: 80rem;
+    
+}
+.category h1{
+    
+text-align: center;
+}
+.category p{
+   
+    display: flex;
+    
+   
+}
+.category hr{
+    height: 2rem;
+  width: -0.1rem;
+  border-color: red;
+  color: red;
+    
+}
